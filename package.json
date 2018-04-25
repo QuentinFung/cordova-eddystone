@@ -1,24 +1,26 @@
 {
-  "name": "cordova-plugin-eddystone",
-  "version": "1.3.0",
-  "description": "Cordova/PhoneGap plugin for Eddystone beacons.",
-  "cordova": {
-    "id": "cordova-plugin-eddystone",
-    "platforms": []
-  },
+  "name": "cordova-plugin-its-eddystone",
+  "version": "1.0.0",
+  "description": "Cordova Eddystone Plugin",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evothings/cordova-eddystone.git"
+    "url": "git+https://github.com/QuentinFung/cordova-plugin-its-eddystone.git"
   },
   "keywords": [
-    "Eddystone",
-    "Beacons",
-    "ecosystem:cordova"
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova",
+    "eddystone",
+    "beacon",
+    "android",
+    "ios",
+    "plugin"
   ],
-  "author": "Evothings",
+  "author": "Quentin Fung <quentin.fung@hku.hk>",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/evothings/cordova-eddystone/issues"
+    "url": "https://github.com/QuentinFung/cordova-plugin-its-eddystone/issues"
   },
-  "homepage": "https://github.com/evothings/cordova-eddystone#readme"
+  "homepage": "https://github.com/QuentinFung/cordova-plugin-its-eddystone#readme"
 }
