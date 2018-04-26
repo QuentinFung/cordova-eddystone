@@ -253,8 +253,8 @@ evothings.util = {};
 	}
 
 	function chunk (string, length) {
-		return string !== '' ? string.match(new RegExp(`.{1,${length}}`, 'g')) : []
-	  }
+		return string !== '' ? string.match(new RegExp(`.{1,${length}}`, 'g')) : [];
+	}
 
 	function binaryToHex(s) {
 		var i, k, part, accum, ret = '';
